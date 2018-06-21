@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jun 21 19:32:57 CST 2018
+http\://maven.data.oa.com/nexus/content/repositories/snapshots/.error=
+https\://raw.githubusercontent.com/xingePush/maven-repository/release/.lastUpdated=1529580776810
+http\://maven.oa.com/nexus/content/groups/public/.lastUpdated=1529580777591
+http\://maven.data.oa.com/nexus/content/groups/public/.error=
+https\://raw.githubusercontent.com/xingePush/maven-repository/release/.error=
+http\://maven.data.oa.com/nexus/content/repositories/snapshots/.lastUpdated=1529580776052
+http\://maven.data.oa.com/nexus/content/groups/public/.lastUpdated=1529580776141

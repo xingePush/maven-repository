@@ -1,0 +1,11 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 21 19:33:02 CST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1529580782018
+http\://maven.data.oa.com/nexus/content/groups/public/.lastUpdated=1529580775352
+http\://maven.data.oa.com/nexus/content/repositories/snapshots/.error=
+http\://maven.data.oa.com/nexus/content/groups/public/.error=
+http\://maven.data.oa.com/nexus/content/repositories/snapshots/.lastUpdated=1529580775279
+https\://raw.githubusercontent.com/xingePush/maven-repository/release/.error=
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.github.xingePush\:xinge\:pom\:1.1.8 from/to central (https\://repo.maven.apache.org/maven2)\: connect timed out
+https\://raw.githubusercontent.com/xingePush/maven-repository/release/.lastUpdated=1529580681158
+http\://maven.oa.com/nexus/content/groups/public/.lastUpdated=1529580775984
