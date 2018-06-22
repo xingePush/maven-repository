@@ -10,3 +10,14 @@ mvn clean deploy -Dmaven.test.skip  -DaltDeploymentRepository=self-mvn-repo::def
 ```
 git push origin release:release
 ```
+
+- 本仓库地址
+
+```
+	<repositories>
+		<repository>
+			<id>xingePush</id>
+			<url>https://raw.githubusercontent.com/xingePush/maven-repository/release/</url>
+		</repository>
+	</repositories>
+```
